@@ -1,4 +1,4 @@
-# Obsidian Lens — Full Stack Fitness Tracker
+# Fitness Tracker
 
 Dark-themed personal performance vault. Track workouts, nutrition, hydration, study hours, body measurements, and streaks.
 
